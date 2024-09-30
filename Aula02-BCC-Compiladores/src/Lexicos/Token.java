@@ -1,5 +1,7 @@
 package Lexicos;
 
+// Saída do Analisador
+
 public class Token {
     public TipoToken nome;
     public String lexema;

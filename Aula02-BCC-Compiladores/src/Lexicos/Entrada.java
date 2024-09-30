@@ -3,6 +3,8 @@ import java.io.File;
 import java.io.FileInputStream;
 import java.io.InputStream;
 
+// Aqui onde aparecerá uma janela com a entrada
+
 public class Entrada {
     InputStream is;
 

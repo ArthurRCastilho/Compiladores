@@ -1,5 +1,7 @@
 package Lexicos;
 
+// Definindo tipos de token => Que é definido após definir sua gramática
+
 public enum TipoToken {
     PCDeclaracoes, PCAlgoritmo, PCInteiro, PCAtribuir, PCImprimir,
     // Palavras Chaves

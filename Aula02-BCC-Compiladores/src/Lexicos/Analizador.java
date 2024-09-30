@@ -1,5 +1,7 @@
 package Lexicos;
 
+// Identifica os lexemas
+
 public class Analizador {
     Entrada ent;
 
